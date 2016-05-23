@@ -1,0 +1,62 @@
+#header {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding: 5px;
+}
+#nav {
+    font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+    text-align: none;
+    line-height:30px;
+    background-color:#eeeeee;
+    width:350px;
+    float:right;
+    padding:5px;        
+}
+#section {
+    font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+    width:350px;
+    float:left;
+    padding:10px;    
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;    
+}
+
+#wrapper {
+    min-width: 700px;
+    padding: 0px 0px 20px 30px;
+    border-radius: 10px;
+}
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.heading:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.heading:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a.heading:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a.heading:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
